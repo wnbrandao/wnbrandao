@@ -1,4 +1,4 @@
-### Bom dia, boa tarde, boa noite, caro recrutador(a) e/ou curioso(a). Sou o Wellington Brandão, mineiro apaixonado com Tecnologia.
+### Bom dia, boa tarde, boa noite, caro recrutador(a) e/ou curioso(a). Sou o Wellington Brandão, acadêmico de sistemas e apaixonado com Tecnologia.
 
 - 🔭 Eu hoje trabalho como Analista de Telecom
 - 🌱 Atualmente estudo Análise de Dados / Data Science
